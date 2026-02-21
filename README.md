@@ -160,4 +160,8 @@ All commits and changes originate from verified branches.
 This module is part of the Nita123 architecture.
 
 არანაირი გარე შაბლონი ან დაუმტკიცებელი ცვლილება არ გადაფარავს ავტორის ფენას.  
-No external template or unauthorized modification overrides the author layer.
+
+
+
+
+
